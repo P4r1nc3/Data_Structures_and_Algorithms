@@ -24,5 +24,9 @@ An algorithm is an unambiguous specification of how to solve a class of problems
     7. Linked List Operations
  3. Tree Based DSA
     1. Binary Tree
-    2. Complete Binary Tree
-    3. Perfect Binary Tree
+    2. Balanced Binary Tree
+    3. Complete Binary Tree
+    4. Perfect Binary Tree
+ 4. Graph Based DSA
+    1. BFS
+    2. DFS
