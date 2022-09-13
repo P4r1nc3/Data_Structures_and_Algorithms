@@ -30,3 +30,9 @@ An algorithm is an unambiguous specification of how to solve a class of problems
  4. Graph Based DSA
     1. BFS
     2. DFS
+ 5. Greedy Algorithms
+    1. Dijkstra's Algorithm
+    2. Kruskal's Algorithm
+    3. Prim's Algorithm
+    4. Ford-Fulkerson Algorithm
+ 
